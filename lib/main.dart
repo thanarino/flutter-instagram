@@ -35,7 +35,7 @@ class MyApp extends StatelessWidget {
         title: 'Flutter - Instagram',
         theme: ThemeData.dark()
             .copyWith(scaffoldBackgroundColor: mobileBackgroundColor),
-        home: SignupScreen()
+        home: LoginScreen()
         // ResponsiveLayout(
         //     webScreenLayout: WebScreenLayout(),
         //     mobileScreenLayout: MobileScreenLayout()),

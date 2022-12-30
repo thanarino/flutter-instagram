@@ -57,7 +57,7 @@ class _SignupScreenState extends State<SignupScreen> {
 
     if (res != 'success') {
       showSnackbar(res, context);
-    } else {}
+    }
   }
 
   @override
